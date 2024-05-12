@@ -4,5 +4,5 @@
 /* #define HOLD_ON_OTHER_KEY_PRESS_PER_KEY */
 /* #define IGNORE_MOD_TAP_INTERRUPT */
 
-#define TAPPING_TERM 200
+#define TAPPING_TERM 120
 /* #define QUICK_TAP_TERM */
